@@ -1,0 +1,48 @@
+{
+        "title": "BAR Userdata",
+        "active": true,
+        "logininfo":[
+        {
+            "name": "Russell Krebs",
+            "username": "RK72259",
+            "password": "RealAren'tBirds",
+            "status": "BAR Website Dev"
+        },
+        {
+            "name": "Thomas Robert",
+            "username": "</>",
+            "password": "RealAren'tBirds",
+            "status": "BAR Website Dev"
+        },
+        {
+            "name": "Seamus Butler",
+            "username": "BUrp._.",
+            "password": "RealAren'tBirds",
+            "status": "UC BAR Agent"
+        },
+        {
+            "name": "Samuel Cash",
+            "username": "dogecoin4",
+            "password": "RealAren'tBirds",
+            "status": "UC BAR Agent"
+        },
+        {
+            "name": "Dax Malan",
+            "username": "<{YEET*CC}>",
+            "password": "RealAren'tBirds",
+            "status": "BAR Double Agent"
+        },
+        {
+            "name": "Kaitlyn Tolman",
+            "username": "kt252424",
+            "password": "RealAren'tBirds",
+            "status": "BAR Double Agent"
+        },
+        {
+            "name": "Ethan Reeves",
+            "username": "Ethan",
+            "password": "RealAren'tBirds",
+            "status": "BAR Double Agent"
+        }
+    ]
+}
